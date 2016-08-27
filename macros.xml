@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Comment Line">
+      <action id="EditorLeftWithSelection" />
+      <action id="CommentByLineComment" />
+      <action id="EditorRight" />
+    </macro>
+  </component>
+</application>

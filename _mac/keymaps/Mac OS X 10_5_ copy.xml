@@ -1,0 +1,91 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateStructureToolWindow" />
+  <action id="CollapseSelection" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="EditorToggleCase" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoFile" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="KotlinShellExecute" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.Push" />
+  <action id="ViewSource" />
+</keymap>

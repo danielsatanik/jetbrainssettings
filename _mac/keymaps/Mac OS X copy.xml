@@ -1,0 +1,62 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CheckinProject" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="DatabaseView.SynchronizeAction" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="FindUsages">
+    <mouse-shortcut keystroke="shift meta button1" />
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+    <mouse-shortcut keystroke="shift button2" />
+  </action>
+  <action id="HighlightUsagesInFile">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta alt y" />
+  </action>
+  <action id="Macro.Comment Line">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Synchronize" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>
