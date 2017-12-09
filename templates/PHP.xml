@@ -1,0 +1,23 @@
+<templateSet group="PHP">
+  <template name="eqc" value="$VARIABLE$ = $ELSE$ ?? $VARIABLE$;" description="var = var ?? else;" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELSE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="constr" value="public function __construct($PARAMETERS$) {&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="unless" value="if (!($CONDITION$)) {&#10;    $END$&#10;}" description="if (!(...))" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>
