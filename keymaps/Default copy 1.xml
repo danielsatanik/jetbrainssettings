@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="CheckinProject" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="Vcs.Push" />
+  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
+</keymap>
