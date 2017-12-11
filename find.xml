@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Matches*.php" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>_id</mask>
       <mask>_ide</mask>
@@ -20,7 +20,6 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>.php</mask>
       <mask>U.php</mask>
       <mask>Us.php</mask>
@@ -35,6 +34,7 @@
       <mask>*Match*.php</mask>
       <mask>*Matche*.php</mask>
       <mask>*Matches*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
