@@ -1,23 +1,26 @@
 <profile version="1.0">
   <option name="myName" value="Project Default" />
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_maxLength" value="32" />
+    <option name="m_maxLength" value="64" />
   </inspection_tool>
-  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_minLength" value="4" />
+    <option name="m_maxLength" value="64" />
+  </inspection_tool>
   <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z\d]*" />
-    <option name="m_maxLength" value="32" />
+    <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_maxLength" value="32" />
+    <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_maxLength" value="32" />
+    <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="PhpRedundantClosingTagInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="1" />
-    <option name="m_maxLength" value="32" />
+    <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
