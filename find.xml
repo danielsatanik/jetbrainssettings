@@ -5,15 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <recentFileMasks>
-      <mask>_id</mask>
-      <mask>_ide</mask>
-      <mask>_ide_</mask>
-      <mask>_ide_he</mask>
-      <mask>_ide_hel</mask>
-      <mask>_ide_helper</mask>
-      <mask>+.</mask>
       <mask>+</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -37,6 +30,13 @@
       <mask>*Matche*.php</mask>
       <mask>*Matches*.php</mask>
       <mask>*.php</mask>
+      <mask>*C.php</mask>
+      <mask>*Con.php</mask>
+      <mask>*Cont.php</mask>
+      <mask>*Contro.php</mask>
+      <mask>*Control.php</mask>
+      <mask>*Controlle.php</mask>
+      <mask>*Controller.php</mask>
     </recentFileMasks>
   </component>
 </application>
