@@ -15,6 +15,7 @@
     <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_regex" value="[a-z][_A-Za-z\d]*" />
     <option name="m_maxLength" value="64" />
   </inspection_tool>
   <inspection_tool class="PhpRedundantClosingTagInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
