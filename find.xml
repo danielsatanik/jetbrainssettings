@@ -7,11 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>+</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.p</mask>
@@ -36,6 +31,11 @@
       <mask>*Control.php</mask>
       <mask>*Controlle.php</mask>
       <mask>*Controller.php</mask>
+      <mask>*R.php</mask>
+      <mask>*Re.php</mask>
+      <mask>*Req.php</mask>
+      <mask>*Reque.php</mask>
+      <mask>*Request.php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
