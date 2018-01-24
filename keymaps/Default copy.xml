@@ -36,6 +36,9 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
   <action id="Vcs.Push" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
 </keymap>
