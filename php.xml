@@ -437,7 +437,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="2b201c98-4088-4efd-86e3-06b5a27c1b5c" load_method="CUSTOM_LOADER" configuration_file_path="/home/vagrant/code/next2/phpunit.xml" custom_loader_path="/home/vagrant/code/next2/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="2b201c98-4088-4efd-86e3-06b5a27c1b5c" load_method="CUSTOM_LOADER" bootstrap_file_path="/home/vagrant/code/next2/vendor/autoload.php" configuration_file_path="/home/vagrant/code/next2/phpunit.xml" custom_loader_path="/home/vagrant/code/next2/vendor/autoload.php" phpunit_phar_path="" use_bootstrap_file="true" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
