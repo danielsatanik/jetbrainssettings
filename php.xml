@@ -2,9 +2,6 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant:///Users/satanik/Sites/backend/usr/bin/php" id="2b201c98-4088-4efd-86e3-06b5a27c1b5c" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
-        <configuration_options>
-          <configuration_option name="xdebug.remote_host" value="10.0.2.15" />
-        </configuration_options>
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Sites/backend" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
@@ -295,7 +292,7 @@
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
             <configuration_option name="xdebug.auto_trace" value="0" />
-            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.cli_color" value="1" />
             <configuration_option name="xdebug.collect_assignments" value="0" />
             <configuration_option name="xdebug.collect_includes" value="1" />
             <configuration_option name="xdebug.collect_params" value="0" />
@@ -319,8 +316,8 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
-            <configuration_option name="xdebug.max_nesting_level" value="250" />
+            <configuration_option name="xdebug.idekey" value="PHPSTORM" />
+            <configuration_option name="xdebug.max_nesting_level" value="512" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
@@ -336,7 +333,7 @@
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
             <configuration_option name="xdebug.remote_log" value="" />
             <configuration_option name="xdebug.remote_mode" value="req" />
             <configuration_option name="xdebug.remote_port" value="9000" />
