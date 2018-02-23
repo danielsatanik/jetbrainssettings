@@ -2,6 +2,9 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant:///Users/satanik/Sites/backend/usr/bin/php" id="2b201c98-4088-4efd-86e3-06b5a27c1b5c" name="Remote PHP 7.1" debugger_id="php.debugger.XDebug">
+        <configuration_options>
+          <configuration_option name="xdebug.remote_host" value="10.0.2.15" />
+        </configuration_options>
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Sites/backend" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
