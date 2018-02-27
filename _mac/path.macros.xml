@@ -1,5 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="PHP_IDE_CONFIG" value="&quot;serverName=neah.app&quot;" />
-  </component>
-</application>
