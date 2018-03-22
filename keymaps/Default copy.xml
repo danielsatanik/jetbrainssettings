@@ -79,6 +79,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
   <action id="Vcs.Push" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
 </keymap>
