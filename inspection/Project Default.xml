@@ -499,6 +499,7 @@
   <inspection_tool class="PhpForeachNestedOuterKeyValueVariablesConflictInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="3" />
+    <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpGotoIntoLoopInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpHierarchyChecksInspection" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -530,6 +531,7 @@
   <inspection_tool class="PhpPassByRefInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_minLength" value="3" />
+    <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpRedundantCatchClauseInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpRedundantClosingTagInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -568,6 +570,7 @@
   <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z\d]*" />
     <option name="m_minLength" value="3" />
+    <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpVariableVariableInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpVoidFunctionResultUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
