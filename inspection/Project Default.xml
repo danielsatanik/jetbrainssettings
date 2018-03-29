@@ -499,7 +499,7 @@
   <inspection_tool class="PhpForeachArrayIsUsedAsValueInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpForeachNestedOuterKeyValueVariablesConflictInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_minLength" value="3" />
+    <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpGotoIntoLoopInspection" enabled="true" level="ERROR" enabled_by_default="true" />
@@ -514,7 +514,7 @@
   <inspection_tool class="PhpInvalidMagicMethodModifiersInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpLanguageLevelInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_minLength" value="3" />
+    <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="PhpMethodOrClassCallIsNotCaseSensitiveInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -769,7 +769,7 @@
   <inspection_tool class="TypesCastingCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TypescriptExplicitMemberType" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnknownInspectionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryAssertionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryCastingInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
