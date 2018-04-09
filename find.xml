@@ -1,15 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="NEAH" />
     <option name="defaultScopeName" value="NEAH" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="NEAH" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
-      <mask>Us.php</mask>
       <mask>Use.php</mask>
       <mask>User.php</mask>
       <mask>Users.php</mask>
@@ -39,6 +36,7 @@
       <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.php</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
