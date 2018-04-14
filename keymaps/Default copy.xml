@@ -56,6 +56,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceVariable" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta alt 3" />
   </action>
