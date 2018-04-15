@@ -9,11 +9,31 @@
       <file name="$USER_HOME$/Sites/backend/next2/gulpfile.js" timestamp="1523752770537">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/Requests/CreateUserRequest.php" timestamp="1523803915893" />
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Models/Receipt.php" timestamp="1523722550192">
         <mark key="[" line="8" column="74" />
         <mark key="]" line="8" column="74" />
         <mark key="^" line="8" column="74" />
         <mark key="." line="8" column="74" />
+      </file>
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/Controllers/UsersController.php" timestamp="1523804160140" />
+      <file name="/fragment.php" timestamp="1523804473387">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/tests/AuthenticationTest.php" timestamp="1523803722671">
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="66" column="29" />
+        <mark key="^" line="66" column="29" />
+        <mark key="." line="66" column="29" />
+      </file>
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" timestamp="1523753234656">
+        <mark key="'" line="177" column="39" />
+      </file>
+      <file name="/PHP Console" timestamp="1523804299611">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Events/ItemPurchased.php" timestamp="1523721771256">
         <mark key="[" line="8" column="25" />
@@ -37,9 +57,6 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" timestamp="1523753234656">
-        <mark key="'" line="177" column="39" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Sites/backend/next2/gulpfile.js" />
@@ -58,7 +75,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5pc0xvY2FsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>receipt_items</text>
@@ -82,11 +99,11 @@
       </history-search>
       <history-cmd>
         <entry>58</entry>
-        <entry>w</entry>
         <entry>5</entry>
         <entry>9</entry>
         <entry>33</entry>
         <entry>help</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,6 +114,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
