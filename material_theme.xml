@@ -1,20 +1,22 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.1.5.3" />
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="isMaterialDesign" value="false" />
-    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="777777" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="222222" />
     <option name="useMaterialIcons" value="false" />
-    <option name="useProjectViewDecorators" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="22" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="useMaterialFont" value="false" />
+    <option name="tabOpacity" value="69" />
     <option name="compactDropdowns" value="true" />
-    <option name="upperCaseButtons" value="false" />
     <option name="isDecoratedFolders" value="false" />
   </component>
 </application>
