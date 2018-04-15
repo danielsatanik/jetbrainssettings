@@ -3,11 +3,10 @@
     <option name="version" value="2.1.5.3" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="777777" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="222222" />
+    <option name="accentColor" value="cccccc" />
     <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="22" />
@@ -15,7 +14,7 @@
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="useMaterialFont" value="false" />
-    <option name="tabOpacity" value="69" />
+    <option name="tabOpacity" value="81" />
     <option name="compactDropdowns" value="true" />
     <option name="isDecoratedFolders" value="false" />
   </component>
