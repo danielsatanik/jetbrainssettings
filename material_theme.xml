@@ -4,11 +4,11 @@
     <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="777777" />
     <option name="isContrastMode" value="true" />
+    <option name="isMaterialDesign" value="false" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="cccccc" />
     <option name="useMaterialIcons" value="false" />
-    <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="22" />
     <option name="isMaterialTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
