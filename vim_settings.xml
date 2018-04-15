@@ -16,7 +16,6 @@
         <mark key="^" line="8" column="74" />
         <mark key="." line="8" column="74" />
       </file>
-      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/Controllers/UsersController.php" timestamp="1523804160140" />
       <file name="/fragment.php" timestamp="1523804473387">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -25,14 +24,17 @@
       </file>
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/tests/AuthenticationTest.php" timestamp="1523803722671">
         <mark key="[" line="64" column="11" />
-        <mark key="]" line="66" column="29" />
-        <mark key="^" line="66" column="29" />
-        <mark key="." line="66" column="29" />
+      </file>
+      <file name="$USER_HOME$/Sites/backend/next2/database/factories/UserFactory.php" timestamp="1523812073739">
+        <mark key="[" line="36" column="54" />
+        <mark key="]" line="36" column="54" />
+        <mark key="." line="36" column="54" />
+        <mark key="^" line="36" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" timestamp="1523753234656">
         <mark key="'" line="177" column="39" />
       </file>
-      <file name="/PHP Console" timestamp="1523804299611">
+      <file name="/PHP Console" timestamp="1523811292162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Events/ItemPurchased.php" timestamp="1523721771256">
@@ -65,20 +67,35 @@
       <jump line="177" column="39" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3BJZkV4aXN0cygncmVjZWlwdF9pdGVtcycpOwo=</text>
+      <register name="0" type="4">
+        <text>$transliterate($user['firstname']);</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5pc0xvY2FsKCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">QXBwXFVzZXI6OmNsYXNzLCBmdW5jdGlvbiAoRmFrZXIgJGZha2VyKSB7CiAgICAkZmFrZXIgPSBcRmFrZXJcRmFjdG9yeTo6Y3JlYXRlKCdkZV9BVCcpOwogICAgJGZpcnN0ID0gJGZha2VyLT5maXJzdE5hbWU7CiAgICAkbGFzdCAgPSAkZmFrZXItPmxhc3ROYW1lOwoKICAgICR0cmFuc2xpdGVyYXRlID0gZnVuY3Rpb24oJHN0cmluZykgewoKICAgIH07CiAgICByZXR1cm4gWwogICAgICAgICdmaXJzdG5hbWUnICAgICAgPT4gdWNmaXJzdCgkZmlyc3QpLAogICAgICAgICdsYXN0bmFtZScgICAgICAgPT4gdWNmaXJzdCgkbGFzdCksCiAgICAgICAgJ25pY2tuYW1lJyAgICAgICA9PiBmdW5jdGlvbiAoYXJyYXkgJHVzZXIpIHsKICAgICAgICAgICAgJGZpcnN0ID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2ZpcnN0bmFtZSddKSk7CiAgICAgICAgICAgICRsYXN0ICA9IHN0cnRvbG93ZXIoaWNvbnYoInV0Zi04IiwgImFzY2lpLy9UUkFOU0xJVCIsICR1c2VyWydsYXN0bmFtZSddKSk7CiAgICAgICAgICAgIHJldHVybiAiJGZpcnN0LiRsYXN0IjsKICAgICAgICB9LAogICAgICAgICdlbWFpbCcgICAgICAgICAgPT4gZnVuY3Rpb24gKGFycmF5ICR1c2VyKSB1c2UgKCRmYWtlcikgewogICAgICAgICAgICAkZmlyc3QgPSBzdHJ0b2xvd2VyKGljb252KCJ1dGYtOCIsICJhc2NpaS8vVFJBTlNMSVQiLCAkdXNlclsnZmlyc3RuYW1lJ10pKTsKICAgICAgICAgICAgJGxhc3QgID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2xhc3RuYW1lJ10pKTsKICAgICAgICAgICAgcmV0dXJuICIkZmlyc3QuJGxhc3RAIiAuICRmYWtlci0+c2FmZUVtYWlsRG9tYWluOwogICAgICAgIH0sCiAgICAgICAgJ3Bhc3N3b3JkJyAgICAgICA9PiAkZmFrZXItPnBhc3N3b3JkLAogICAgICAgICdyZW1lbWJlcl90b2tlbicgPT4gc3RyX3JhbmRvbSgxMCksCiAgICAgICAgJ3JvbGVfaWQnICAgICAgICA9PiAyLAogICAgXTsKfQ==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkbGFzdCAgPSAkZmFrZXItPmxhc3ROYW1lOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAkZmFrZXItPmZpcnN0TmFtZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHdoaWxlICghcHJlZ19tYXRjaCgnL1vDpMO2w7zDhMOWw5xdLycsICRmaXJzdCkpIHsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5pc0xvY2FsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>receipt_items</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>intercept</text>
@@ -103,6 +120,9 @@
         <entry>9</entry>
         <entry>33</entry>
         <entry>help</entry>
+        <entry>30</entry>
+        <entry>24</entry>
+        <entry>26</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
