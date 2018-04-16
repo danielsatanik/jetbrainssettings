@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1523722449370">
@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/Sites/backend/next2/gulpfile.js" timestamp="1523752770537">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/Requests/CreateUserRequest.php" timestamp="1523803915893" />
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Models/Receipt.php" timestamp="1523722550192">
         <mark key="[" line="8" column="74" />
         <mark key="]" line="8" column="74" />
@@ -40,10 +39,10 @@
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Events/ItemPurchased.php" timestamp="1523721771256">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" timestamp="1523753202736">
-        <mark key="'" line="65" column="37" />
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="25" />
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" timestamp="1523863106678">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="51" />
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="25" />
       </file>
@@ -59,52 +58,66 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" timestamp="1523863344500">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Sites/backend/next2/gulpfile.js" />
       <jump line="65" column="37" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" />
       <jump line="177" column="39" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" />
+      <jump line="64" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>$transliterate($user['firstname']);</text>
+        <text>extends ServiceProvider</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Y2xhc3MgUGF5bWVudEV2ZW50U2VydmljZVByb3ZpZGVyCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgUGF5bWVudEV2ZW50U2VydmljZVByb3ZpZGVyCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">QXBwXFVzZXI6OmNsYXNzLCBmdW5jdGlvbiAoRmFrZXIgJGZha2VyKSB7CiAgICAkZmFrZXIgPSBcRmFrZXJcRmFjdG9yeTo6Y3JlYXRlKCdkZV9BVCcpOwogICAgJGZpcnN0ID0gJGZha2VyLT5maXJzdE5hbWU7CiAgICAkbGFzdCAgPSAkZmFrZXItPmxhc3ROYW1lOwoKICAgICR0cmFuc2xpdGVyYXRlID0gZnVuY3Rpb24oJHN0cmluZykgewoKICAgIH07CiAgICByZXR1cm4gWwogICAgICAgICdmaXJzdG5hbWUnICAgICAgPT4gdWNmaXJzdCgkZmlyc3QpLAogICAgICAgICdsYXN0bmFtZScgICAgICAgPT4gdWNmaXJzdCgkbGFzdCksCiAgICAgICAgJ25pY2tuYW1lJyAgICAgICA9PiBmdW5jdGlvbiAoYXJyYXkgJHVzZXIpIHsKICAgICAgICAgICAgJGZpcnN0ID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2ZpcnN0bmFtZSddKSk7CiAgICAgICAgICAgICRsYXN0ICA9IHN0cnRvbG93ZXIoaWNvbnYoInV0Zi04IiwgImFzY2lpLy9UUkFOU0xJVCIsICR1c2VyWydsYXN0bmFtZSddKSk7CiAgICAgICAgICAgIHJldHVybiAiJGZpcnN0LiRsYXN0IjsKICAgICAgICB9LAogICAgICAgICdlbWFpbCcgICAgICAgICAgPT4gZnVuY3Rpb24gKGFycmF5ICR1c2VyKSB1c2UgKCRmYWtlcikgewogICAgICAgICAgICAkZmlyc3QgPSBzdHJ0b2xvd2VyKGljb252KCJ1dGYtOCIsICJhc2NpaS8vVFJBTlNMSVQiLCAkdXNlclsnZmlyc3RuYW1lJ10pKTsKICAgICAgICAgICAgJGxhc3QgID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2xhc3RuYW1lJ10pKTsKICAgICAgICAgICAgcmV0dXJuICIkZmlyc3QuJGxhc3RAIiAuICRmYWtlci0+c2FmZUVtYWlsRG9tYWluOwogICAgICAgIH0sCiAgICAgICAgJ3Bhc3N3b3JkJyAgICAgICA9PiAkZmFrZXItPnBhc3N3b3JkLAogICAgICAgICdyZW1lbWJlcl90b2tlbicgPT4gc3RyX3JhbmRvbSgxMCksCiAgICAgICAgJ3JvbGVfaWQnICAgICAgICA9PiAyLAogICAgXTsKfQ==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkbGFzdCAgPSAkZmFrZXItPmxhc3ROYW1lOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAkZmFrZXItPmZpcnN0TmFtZTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHdoaWxlICghcHJlZ19tYXRjaCgnL1vDpMO2w7zDhMOWw5xdLycsICRmaXJzdCkpIHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5pc0xvY2FsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>intercept</text>
+        <text>class</text>
       </register>
     </registers>
     <search>
-      <last-search>intercept</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>intercept</last-pattern>
+      <last-pattern>class</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -113,6 +126,7 @@
         <entry>app.js</entry>
         <entry>middleware</entry>
         <entry>intercept</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
@@ -124,6 +138,7 @@
         <entry>24</entry>
         <entry>26</entry>
         <entry>w</entry>
+        <entry>4</entry>
       </history-cmd>
       <history-expr />
       <history-input />
