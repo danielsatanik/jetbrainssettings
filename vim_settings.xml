@@ -122,7 +122,7 @@
       <last-offset />
       <last-pattern>Event::</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
