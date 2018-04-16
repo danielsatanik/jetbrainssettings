@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1523722449370">
@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Events/ItemPurchased.php" timestamp="1523721771256">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" timestamp="1523863106678">
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" timestamp="1523863763755">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="29" />
         <mark key="]" line="26" column="51" />
@@ -58,11 +58,12 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="62" />
       </file>
-      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" timestamp="1523863344500">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" timestamp="1523863729843">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -71,10 +72,12 @@
       <jump line="28" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" />
       <jump line="177" column="39" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Foundation/src/FoundationServiceProvider.php" />
       <jump line="64" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentEventServiceProvider.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/PaymentServiceProvider.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -83,8 +86,8 @@
       <register name="1" type="2">
         <text encoding="base64">Y2xhc3MgUGF5bWVudEV2ZW50U2VydmljZVByb3ZpZGVyCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgUGF5bWVudEV2ZW50U2VydmljZVByb3ZpZGVyCg==</text>
+      <register name="&quot;" type="4">
+        <text>extends ServiceProvider</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">QXBwXFVzZXI6OmNsYXNzLCBmdW5jdGlvbiAoRmFrZXIgJGZha2VyKSB7CiAgICAkZmFrZXIgPSBcRmFrZXJcRmFjdG9yeTo6Y3JlYXRlKCdkZV9BVCcpOwogICAgJGZpcnN0ID0gJGZha2VyLT5maXJzdE5hbWU7CiAgICAkbGFzdCAgPSAkZmFrZXItPmxhc3ROYW1lOwoKICAgICR0cmFuc2xpdGVyYXRlID0gZnVuY3Rpb24oJHN0cmluZykgewoKICAgIH07CiAgICByZXR1cm4gWwogICAgICAgICdmaXJzdG5hbWUnICAgICAgPT4gdWNmaXJzdCgkZmlyc3QpLAogICAgICAgICdsYXN0bmFtZScgICAgICAgPT4gdWNmaXJzdCgkbGFzdCksCiAgICAgICAgJ25pY2tuYW1lJyAgICAgICA9PiBmdW5jdGlvbiAoYXJyYXkgJHVzZXIpIHsKICAgICAgICAgICAgJGZpcnN0ID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2ZpcnN0bmFtZSddKSk7CiAgICAgICAgICAgICRsYXN0ICA9IHN0cnRvbG93ZXIoaWNvbnYoInV0Zi04IiwgImFzY2lpLy9UUkFOU0xJVCIsICR1c2VyWydsYXN0bmFtZSddKSk7CiAgICAgICAgICAgIHJldHVybiAiJGZpcnN0LiRsYXN0IjsKICAgICAgICB9LAogICAgICAgICdlbWFpbCcgICAgICAgICAgPT4gZnVuY3Rpb24gKGFycmF5ICR1c2VyKSB1c2UgKCRmYWtlcikgewogICAgICAgICAgICAkZmlyc3QgPSBzdHJ0b2xvd2VyKGljb252KCJ1dGYtOCIsICJhc2NpaS8vVFJBTlNMSVQiLCAkdXNlclsnZmlyc3RuYW1lJ10pKTsKICAgICAgICAgICAgJGxhc3QgID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2xhc3RuYW1lJ10pKTsKICAgICAgICAgICAgcmV0dXJuICIkZmlyc3QuJGxhc3RAIiAuICRmYWtlci0+c2FmZUVtYWlsRG9tYWluOwogICAgICAgIH0sCiAgICAgICAgJ3Bhc3N3b3JkJyAgICAgICA9PiAkZmFrZXItPnBhc3N3b3JkLAogICAgICAgICdyZW1lbWJlcl90b2tlbicgPT4gc3RyX3JhbmRvbSgxMCksCiAgICAgICAgJ3JvbGVfaWQnICAgICAgICA9PiAyLAogICAgXTsKfQ==</text>
@@ -105,21 +108,21 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwLT5pc0xvY2FsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>4</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>Event::</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>Event::</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern>Event::</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -127,6 +130,9 @@
         <entry>middleware</entry>
         <entry>intercept</entry>
         <entry>class</entry>
+        <entry>Payment</entry>
+        <entry>foobar</entry>
+        <entry>Event::</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
@@ -139,6 +145,7 @@
         <entry>26</entry>
         <entry>w</entry>
         <entry>4</entry>
+        <entry>8</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,6 +159,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
