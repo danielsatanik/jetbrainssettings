@@ -1,42 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
-    <recentFileMasks>
-      <mask>Use.php</mask>
-      <mask>User.php</mask>
-      <mask>Users.php</mask>
-      <mask>Users*.php</mask>
-      <mask>**.php</mask>
-      <mask>*M*.php</mask>
-      <mask>*Ma*.php</mask>
-      <mask>*Mat*.php</mask>
-      <mask>*Match*.php</mask>
-      <mask>*Matche*.php</mask>
-      <mask>*Matches*.php</mask>
-      <mask>*C.php</mask>
-      <mask>*Con.php</mask>
-      <mask>*Cont.php</mask>
-      <mask>*Contro.php</mask>
-      <mask>*Control.php</mask>
-      <mask>*Controlle.php</mask>
-      <mask>*Controller.php</mask>
-      <mask>*R.php</mask>
-      <mask>*Re.php</mask>
-      <mask>*Req.php</mask>
-      <mask>*Reque.php</mask>
-      <mask>*Request.php</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.html</mask>
-      <mask>*.json</mask>
-      <mask>*.js</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
