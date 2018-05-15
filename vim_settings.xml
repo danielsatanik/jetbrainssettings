@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/Sites/backend/next2/gulpfile.js" timestamp="1523752770537">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/backend/next2/database/seeds/Neah/home/profile/ProfileSeeder.php" timestamp="1526401202510">
+        <mark key="[" line="34" column="12" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+      </file>
       <file name="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Models/Receipt.php" timestamp="1523949995869">
         <mark key="[" line="17" column="69" />
         <mark key="]" line="17" column="69" />
@@ -107,11 +112,11 @@
       <jump line="60" column="12" filename="$USER_HOME$/Sites/backend/next2/packages/Neah/Payment/src/Events/EventSubscriber.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mail.verification_subject</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">J2h0dHA6Ly93d3cuZXhjbHVzaXZlLWZpcmUuYXQnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vd3d3LnRzY2hpcmstd2ludGVyZ2FydGVuLmF0LycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cDovL3d3dy5iYXNlYmFsbGF1c3RyaWEuY29tL2luZGV4LnBocCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAKJ2h0dHBzOi8vd3d3LmF2YWRvcy5hdC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vYm9sbGVuYmVyZ2VyLmNvbS8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cHM6Ly93d3cyLmRlbG9pdHRlLmNvbS9hdC9kZS9rb250YWt0L3N0YW5kb3J0c3VjaGUvZGVsb2l0dGUtb2VzdGVycmVpY2gvZGVsb2l0dGUtd2llbi5odG1sJyA9PiAKJ2h0dHBzOi8vd3d3LnNwYXJrYXNzZS5hdC9lcnN0ZWJhbmsvcHJpdmF0a3VuZGVuJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vd3d3LnZvbGxleW5ldC5hdC9zdGFydC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cHM6Ly93d3cuZHJlaS5hdC9kZS9pbmRleC5odG1sJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAKJ2h0dHA6Ly93d3cuZmh3bi5hYy5hdC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwczovL3d3dy5oYXJ0bGhhdXMuYXQvJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cHM6Ly93d3cucmVrb3JkLWZlbnN0ZXIuY29tLycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAKJ2h0dHA6Ly93d3cucnctc2VydmljZXRlYW0uYXQvJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vd3d3LmhsYS5hdC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IA==</text>
       </register>
       <register name="-" type="4">
-        <text>mail.verification_subject</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>first</text>
@@ -119,34 +124,34 @@
       <register name="0" type="4">
         <text>extends ServiceProvider</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text encoding="base64">J2h0dHA6Ly93d3cuZXhjbHVzaXZlLWZpcmUuYXQnICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vd3d3LnRzY2hpcmstd2ludGVyZ2FydGVuLmF0LycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cDovL3d3dy5iYXNlYmFsbGF1c3RyaWEuY29tL2luZGV4LnBocCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAKJ2h0dHBzOi8vd3d3LmF2YWRvcy5hdC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vYm9sbGVuYmVyZ2VyLmNvbS8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cHM6Ly93d3cyLmRlbG9pdHRlLmNvbS9hdC9kZS9rb250YWt0L3N0YW5kb3J0c3VjaGUvZGVsb2l0dGUtb2VzdGVycmVpY2gvZGVsb2l0dGUtd2llbi5odG1sJyA9PiAKJ2h0dHBzOi8vd3d3LnNwYXJrYXNzZS5hdC9lcnN0ZWJhbmsvcHJpdmF0a3VuZGVuJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vd3d3LnZvbGxleW5ldC5hdC9zdGFydC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cHM6Ly93d3cuZHJlaS5hdC9kZS9pbmRleC5odG1sJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAKJ2h0dHA6Ly93d3cuZmh3bi5hYy5hdC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwczovL3d3dy5oYXJ0bGhhdXMuYXQvJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IAonaHR0cHM6Ly93d3cucmVrb3JkLWZlbnN0ZXIuY29tLycgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAKJ2h0dHA6Ly93d3cucnctc2VydmljZXRlYW0uYXQvJyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gCidodHRwOi8vd3d3LmhsYS5hdC8nICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0+IA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RhdGUnID0+ZGRkCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Receipt::create([
                 'user_id'
             ])</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Y2xhc3MgUGF5bWVudEV2ZW50U2VydmljZVByb3ZpZGVyCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">QXBwXFVzZXI6OmNsYXNzLCBmdW5jdGlvbiAoRmFrZXIgJGZha2VyKSB7CiAgICAkZmFrZXIgPSBcRmFrZXJcRmFjdG9yeTo6Y3JlYXRlKCdkZV9BVCcpOwogICAgJGZpcnN0ID0gJGZha2VyLT5maXJzdE5hbWU7CiAgICAkbGFzdCAgPSAkZmFrZXItPmxhc3ROYW1lOwoKICAgICR0cmFuc2xpdGVyYXRlID0gZnVuY3Rpb24oJHN0cmluZykgewoKICAgIH07CiAgICByZXR1cm4gWwogICAgICAgICdmaXJzdG5hbWUnICAgICAgPT4gdWNmaXJzdCgkZmlyc3QpLAogICAgICAgICdsYXN0bmFtZScgICAgICAgPT4gdWNmaXJzdCgkbGFzdCksCiAgICAgICAgJ25pY2tuYW1lJyAgICAgICA9PiBmdW5jdGlvbiAoYXJyYXkgJHVzZXIpIHsKICAgICAgICAgICAgJGZpcnN0ID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2ZpcnN0bmFtZSddKSk7CiAgICAgICAgICAgICRsYXN0ICA9IHN0cnRvbG93ZXIoaWNvbnYoInV0Zi04IiwgImFzY2lpLy9UUkFOU0xJVCIsICR1c2VyWydsYXN0bmFtZSddKSk7CiAgICAgICAgICAgIHJldHVybiAiJGZpcnN0LiRsYXN0IjsKICAgICAgICB9LAogICAgICAgICdlbWFpbCcgICAgICAgICAgPT4gZnVuY3Rpb24gKGFycmF5ICR1c2VyKSB1c2UgKCRmYWtlcikgewogICAgICAgICAgICAkZmlyc3QgPSBzdHJ0b2xvd2VyKGljb252KCJ1dGYtOCIsICJhc2NpaS8vVFJBTlNMSVQiLCAkdXNlclsnZmlyc3RuYW1lJ10pKTsKICAgICAgICAgICAgJGxhc3QgID0gc3RydG9sb3dlcihpY29udigidXRmLTgiLCAiYXNjaWkvL1RSQU5TTElUIiwgJHVzZXJbJ2xhc3RuYW1lJ10pKTsKICAgICAgICAgICAgcmV0dXJuICIkZmlyc3QuJGxhc3RAIiAuICRmYWtlci0+c2FmZUVtYWlsRG9tYWluOwogICAgICAgIH0sCiAgICAgICAgJ3Bhc3N3b3JkJyAgICAgICA9PiAkZmFrZXItPnBhc3N3b3JkLAogICAgICAgICdyZW1lbWJlcl90b2tlbicgPT4gc3RyX3JhbmRvbSgxMCksCiAgICAgICAgJ3JvbGVfaWQnICAgICAgICA9PiAyLAogICAgXTsKfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkbGFzdCAgPSAkZmFrZXItPmxhc3ROYW1lOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAkZmFrZXItPmZpcnN0TmFtZTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICghcHJlZ19tYXRjaCgnL1vDpMO2w7zDhMOWw5xdLycsICRmaXJzdCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAkZmlyc3QgPSAkZmFrZXItPmZpcnN0TmFtZTsK</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
@@ -209,6 +214,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
