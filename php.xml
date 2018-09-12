@@ -1,10 +1,12 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <phpmd_by_interpreter interpreter_id="0dc9c381-9c1b-43f1-bc9c-a19efc4facd9" tool_path="/home/vagrant/code/next2/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <phpcs_by_interpreter interpreter_id="0dc9c381-9c1b-43f1-bc9c-a19efc4facd9" tool_path="/home/vagrant/code/next2/vendor/bin/phpcs" />
     </phpcs_settings>
