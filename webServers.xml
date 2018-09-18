@@ -4,6 +4,9 @@
       <webServer id="55bb437e-96c0-401f-b01d-a4c60f58d9dc" name="manwithaplan" url="https://manwithaplan.at">
         <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites/manwithaplan" accessType="MOUNT" />
       </webServer>
+      <webServer id="224ce2b5-45c3-4505-89ff-b368ef70c3a1" name="Jobmap" url="https://jobmap.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
