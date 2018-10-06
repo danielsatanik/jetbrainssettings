@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Foundation" />
-    <option name="defaultScopeName" value="Foundation" />
-    <option name="SEARCH_SCOPE" value="Foundation" />
+    <option name="customScope" value="Api" />
+    <option name="defaultScopeName" value="Api" />
+    <option name="SEARCH_SCOPE" value="Api" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
