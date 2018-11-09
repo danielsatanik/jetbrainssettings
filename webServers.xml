@@ -7,6 +7,9 @@
       <webServer id="224ce2b5-45c3-4505-89ff-b368ef70c3a1" name="Jobmap" url="https://jobmap.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c29addbc-9bd6-4872-84bc-f02320034028" name="Jobmap Frontend" url="https://jobmap-frontend.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
